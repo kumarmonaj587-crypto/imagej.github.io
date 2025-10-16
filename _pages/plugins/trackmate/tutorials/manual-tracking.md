@@ -1,4 +1,4 @@
----
+--track-
 title: Manual tracking with TrackMate
 description: Tutorial on manual and semi-automated tracking with TrackMate.
 categories: [Segmentation,Tracking]
